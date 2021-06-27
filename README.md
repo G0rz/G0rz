@@ -19,6 +19,5 @@
 <a href="https://instagram.com/mr_squanchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaio" height="30" width="40" /></a></p>
 
 ##
-[![G0rz's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0rz&title_color=00EE00&icon_color=00EE00&text_color=00EE00&bg_color=000000&show_icons=true)](https://github.com/G0rz)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=g0rz&label=Profile%20views&color=0e75b6&style=flat" alt="g0rz" /> 
 <img width="75px" src="https://user-images.githubusercontent.com/63682340/123536237-c45e3180-d6ee-11eb-97ca-6f2c182ee0db.gif"></p>
