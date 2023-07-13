@@ -2,9 +2,9 @@
 
 ### My name is Leonardo Becerril. I'm from México and I'm computer systems engineering intern.
 
-- 👷 I’m currently working on <a href="https://daduva.mx/"> <img width="90px" src="https://user-images.githubusercontent.com/63682340/170167594-13b2ca84-cc06-40af-9c46-bad7bcda47de.svg"></a> as jr web developer.
+- 👷 I’m currently working as java full stack web developer.
 - 💻 I am passionate about technology and developing applications that help us better understand the world around us.
-- 🌱 I’m currently learning **Reactjs, Nextjs and other things**
+- 🌱 I’m currently learning **Reactjs, Nextjs and Java things**
 - ✉️ Reach me: **leonardo.becerril@hotmail.com**
 
 # Skills
