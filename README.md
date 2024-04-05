@@ -33,8 +33,6 @@
 
 ## Connect with me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/typenull)
-<a href="https://linkedin.com/in/typenull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Becerril" height="30" width="40" /></a>
-##
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=g0rz&label=Profile%20views&color=0e75b6&style=flat" alt="g0rz" /> 
 <img width="75px" src="https://user-images.githubusercontent.com/63682340/123536237-c45e3180-d6ee-11eb-97ca-6f2c182ee0db.gif"></p>
