@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=red)
 ![PHP](https://img.shields.io/badge/php-%236DB33F.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white)
+[![Linux](https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/download) 
 
 <a href="https://github.com/G0rz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0rz&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
