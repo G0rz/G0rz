@@ -11,7 +11,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/-vue-3ECF8E?style=for-the-badge&logo=vue&logoColor=white)
+![Vue](https://img.shields.io/badge/-vue-3ECF8E?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-FF4785?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-laravel-%23E5E5E5?style=for-the-badge&logo=laravel&logoColor=058a5e)
 
