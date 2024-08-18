@@ -1,10 +1,10 @@
 # Hi, welcome to my Github! <img width="250px" src="https://user-images.githubusercontent.com/63682340/123534465-f6699680-d6e2-11eb-8904-da7a2ec2c69c.gif">
 
-### My name is Leonardo Becerril. I'm from México and I'm computer systems engineering intern.
+### My name is Leonardo Becerril. I'm from México and I'm Computer Systems Engineer.
 
-- 👷 I’m currently working as java full stack web developer.
+- 👷 I’m currently working as full stack web developer.
 - 💻 I am passionate about technology and developing applications that help us better understand the world around us.
-- 🌱 I’m currently learning **Reactjs, Nextjs and Java things**
+- 🌱 I’m currently learning **Reactjs, Nextjs and Phyton things**
 - ✉️ Reach me: **leonardo.becerril@hotmail.com**
 
 # Skills
@@ -22,6 +22,7 @@
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Firebase](https://img.shields.io/badge/firebase-%23E34F26.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![MongoDB](https://img.shields.io/badge/Mongodb-%FF1899F2.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=red)](https://www.java.com/es/download/help/java8_es.html)
 [![PHP](https://img.shields.io/badge/php-%236DB33F.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
