@@ -4,7 +4,7 @@
 
 - 👷 I’m currently working as full stack web developer.
 - 💻 I am passionate about technology and developing applications that help us better understand the world around us.
-- 🌱 I’m currently learning **Reactjs, Nextjs and Phyton things**
+- 🌱 I’m currently learning **Reactjs, and Kotlin things**
 - ✉️ Reach me: **leonardo.becerril@hotmail.com**
 
 # Skills
