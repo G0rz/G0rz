@@ -4,35 +4,37 @@
 
 - 👷 I’m currently working as full stack web developer.
 - 💻 I am passionate about technology and developing applications that help us better understand the world around us.
-- 🌱 I’m currently learning **Reactjs, and Kotlin things**
+- 🌱 I’m currently learning **Typescript, and Kotlin things**
 - ✉️ Reach me: **leonardo.becerril@hotmail.com**
 
-# Skills
+# Tech Skills
 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Vue](https://img.shields.io/badge/-vue-3ECF8E?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![JQuery](https://img.shields.io/badge/-JQuery-FF4785?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![Laravel](https://img.shields.io/badge/-laravel-%23E5E5E5?style=for-the-badge&logo=laravel&logoColor=058a5e)](https://laravel.com/)
+[![Next JS](https://img.shields.io/badge/-Next.js-informational?logo=Next.js&style=for-the-badge&logoColor=ffffff&color=ededed&labelColor=000000)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/-React-informational?logo=React&style=for-the-badge&logoColor=58c4dc&color=191b21&labelColor=23272f)](https://es.react.dev/)
+[![Vue](https://img.shields.io/badge/-Vue.js-informational?logo=Vue.js&style=for-the-badge&logoColor=42b883&color=242424&labelColor=1a1a1a)](https://vuejs.org/)
+[![JQuery](https://img.shields.io/badge/-Jquery-informational?logo=Jquery&style=for-the-badge&logoColor=78cff5&color=232323&labelColor=0769ad)](https://jquery.com/)
+[![Laravel](https://img.shields.io/badge/-Laravel-informational?logo=Laravel&style=for-the-badge&logoColor=F53003&color=111110&labelColor=FDFDFC)](https://laravel.com/)
 
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![MUI](https://img.shields.io/badge/-mui-%23C21325?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind-informational?logo=tailwindcss&style=for-the-badge&logoColor=00BCFF&color=10141E&labelColor=030712)](https://tailwindcss.com/)
+[![MUI](https://img.shields.io/badge/-MUI-informational?logo=mui&style=for-the-badge&logoColor=0073E6&color=0D1A27&labelColor=0F1114)](https://mui.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?logo=bootstrap&style=for-the-badge&logoColor=FFFFFF&color=212529&labelColor=702CF4)](https://getbootstrap.com/)
+[![CSS3](https://img.shields.io/badge/-CSS3-informational?logo=CSS&style=for-the-badge&logoColor=ECECEC&color=2465F1&labelColor=214CE5)](https://www.w3.org/Style/CSS/Overview.en.html)
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Firebase](https://img.shields.io/badge/firebase-%23E34F26.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![MongoDB](https://img.shields.io/badge/Mongodb-%FF1899F2.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-informational?logo=mongodb&style=for-the-badge&logoColor=00ED64&color=FFFFFF&labelColor=001E2B)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-informational?logo=firebase&style=for-the-badge&logoColor=FF9100&color=1E1E1E&labelColor=FFFFFF)](https://firebase.google.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-informational?logo=mysql&style=for-the-badge&logoColor=3E6E93&color=F29221&labelColor=FFFFFF)](https://www.mysql.com/)
+[![Oracle](https://img.shields.io/badge/-Oracle%20PL%20SQL-informational?logo=jdk&style=for-the-badge&logoColor=FFFFFF&color=C34131&labelColor=312D2A)](https://www.oracle.com/mx/)
 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=red)](https://www.java.com/es/download/help/java8_es.html)
-[![PHP](https://img.shields.io/badge/php-%236DB33F.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Linux](https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/download) 
+[![Kotlin](https://img.shields.io/badge/-Kotlin-informational?logo=kotlin&style=for-the-badge&logoColor=7f52ff&color=FFFFFF&labelColor=19191C)]([https://kotlinlang.org/)
+[![Typescript](https://img.shields.io/badge/-Typescript-informational?logo=typescript&style=for-the-badge&logoColor=FFFFFF&color=262626&labelColor=3178C6)]([https://www.typescriptlang.org/)
+[![Javascript](https://img.shields.io/badge/-Javascript-informational?logo=javascript&style=for-the-badge&logoColor=F7E018&color=1B1B1B&labelColor=000000)]([https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/-PHP-informational?logo=php&style=for-the-badge&logoColor=FFFFFF&color=313131&labelColor=4F5B93)](https://www.php.net/)
+[![Java](https://img.shields.io/badge/-Java-informational?logo=openjdk&style=for-the-badge&logoColor=FFFFFF&color=04536F&labelColor=3A75B0)](https://www.java.com/es/)
+
+[![Linux](https://img.shields.io/badge/-Linux-informational?logo=linux&style=for-the-badge&logoColor=FFFFFF&color=262626&labelColor=E75320)](https://www.linux.org/) 
 
 <a href="https://github.com/G0rz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0rz&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
 
 ## Connect with me:
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/typenull)
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=g0rz&label=Profile%20views&color=0e75b6&style=flat" alt="g0rz" /> 
 <img width="75px" src="https://user-images.githubusercontent.com/63682340/123536237-c45e3180-d6ee-11eb-97ca-6f2c182ee0db.gif"></p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?logo=linkedin&style=for-the-badge&logoColor=0A66C2&color=0A66C2&labelColor=FFFFFF)](https://www.linkedin.com/in/typenull/)
