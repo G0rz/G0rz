@@ -2,9 +2,9 @@
 
 ### My name is Leonardo Becerril. I'm from México and I'm Computer Systems Engineer.
 
-- 👷 I’m currently working as full stack web developer.
+- 👷 I’m currently working as full stack developer.
 - 💻 I am passionate about technology and developing applications that help us better understand the world around us.
-- 🌱 I’m currently learning **Typescript, and Kotlin things**
+- 🌱 I’m currently learning **TypeScript, and Kotlin things**
 - ✉️ Reach me: **leonardo.becerril@hotmail.com**
 
 # Tech Skills
@@ -12,7 +12,6 @@
 [![Next JS](https://img.shields.io/badge/-Next.js-informational?logo=Next.js&style=for-the-badge&logoColor=ffffff&color=ededed&labelColor=000000)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/-React-informational?logo=React&style=for-the-badge&logoColor=58c4dc&color=191b21&labelColor=23272f)](https://es.react.dev/)
 [![Vue](https://img.shields.io/badge/-Vue.js-informational?logo=Vue.js&style=for-the-badge&logoColor=42b883&color=242424&labelColor=1a1a1a)](https://vuejs.org/)
-[![JQuery](https://img.shields.io/badge/-Jquery-informational?logo=Jquery&style=for-the-badge&logoColor=78cff5&color=232323&labelColor=0769ad)](https://jquery.com/)
 [![Laravel](https://img.shields.io/badge/-Laravel-informational?logo=Laravel&style=for-the-badge&logoColor=F53003&color=111110&labelColor=FDFDFC)](https://laravel.com/)
 
 [![TailwindCSS](https://img.shields.io/badge/-Tailwind-informational?logo=tailwindcss&style=for-the-badge&logoColor=00BCFF&color=10141E&labelColor=030712)](https://tailwindcss.com/)
@@ -33,8 +32,5 @@
 
 [![Linux](https://img.shields.io/badge/-Linux-informational?logo=linux&style=for-the-badge&logoColor=FFFFFF&color=262626&labelColor=E75320)](https://www.linux.org/) 
 
-<a href="https://github.com/G0rz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0rz&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
-
-## Connect with me:
 <img width="75px" src="https://user-images.githubusercontent.com/63682340/123536237-c45e3180-d6ee-11eb-97ca-6f2c182ee0db.gif"></p>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?logo=linkedin&style=for-the-badge&logoColor=0A66C2&color=0A66C2&labelColor=FFFFFF)](https://www.linkedin.com/in/typenull/)
+
